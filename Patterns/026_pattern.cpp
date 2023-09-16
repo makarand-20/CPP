@@ -1,20 +1,17 @@
 /*
-
-    *
-   **
-  ***
- ****
-*****
-
+5 5 5 5 5 
+ 4 4 4 4 
+  3 3 3 
+   2 2 
+    1
 */
-
 #include <iostream>
 using namespace std;
 
 int main(){
     int n = 5;
 
-    for (int i = 1; i <= n; i++)
+    for (int i = n; i >= 1; i--)
     {
         for (int j = 1; j <= n-i; j++)
         {
@@ -22,7 +19,7 @@ int main(){
         }
         for (int j = 1; j <= i; j++)
         {
-            cout<<"*";
+            cout<<i<<" ";
         }
         cout<<endl;
     }
