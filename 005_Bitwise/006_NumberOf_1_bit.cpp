@@ -1,3 +1,5 @@
+// Number of 1 bits in a given numbers
+
 #include <iostream>
 using namespace std;
 

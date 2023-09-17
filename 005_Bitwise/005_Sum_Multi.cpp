@@ -1,3 +1,5 @@
+// return the subtraction of product and sum of given number
+
 #include <iostream>
 using namespace std;
 
