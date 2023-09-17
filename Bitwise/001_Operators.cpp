@@ -3,6 +3,7 @@ using namespace std;
 
 int main() {
     int a = 7, b = 5;
+    
     cout << "(a & b) = " << (a & b) << endl; 
     // 7 = 0111, 5 = 0101, 0111 & 0101 = 0101 = 5 👆
 
