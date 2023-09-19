@@ -1,3 +1,5 @@
+// find single duplicate number in an array
+
 #include <iostream>
 using namespace std;
 
