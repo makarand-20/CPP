@@ -1,0 +1,42 @@
+
+// What is the complexity of the following code:
+1. 2n^2 + 3n = O(n^2)
+
+2. 4n^2 + 3n^3 = O(n^3)
+
+3. n^2 + log(n) = O(n^2)
+
+4. 2^n + 3^n = O(3^n)
+
+5. 2348234 = O(1)
+
+6. 2^n + 3n^2 = O(2^n)
+
+7. n^3/300 = O(n^3)
+
+8. 2^n + 3n^2 + 4n = O(2^n)
+
+9. n/4 = O(n)
+
+10. (n+4)/4 = O(n)
+
+
+
+// lets know the constraints of the problem
+1. 1 < n < 10^8 = O(n) || O(log n)
+
+2. 1 < n < 10^6 = O(n log n)
+
+3. 1 < n < 10^4 = O(n^2)
+
+4. 1 < n < 2000 = O(n^2 log n)
+
+5. 1 < n < 500 = O(n^3)
+
+6. 1 < n < 100 = O(n^4)
+
+7. 1 < n < 20 = O(2^n)
+
+8. 1 < n < 10 = O(n!)
+
+9. 1 < n < 10^10 = O(1)
