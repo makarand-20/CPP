@@ -27,5 +27,5 @@ int main(){
         }
     }
 
-    cout<<"Pivot Element : "<<start<<endl;
+    cout<<"Pivot Element at index : "<<start<<endl;
 }
