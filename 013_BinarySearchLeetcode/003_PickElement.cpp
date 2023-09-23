@@ -1,6 +1,6 @@
 //https://leetcode.com/problems/peak-index-in-a-mountain-array/
 
-// Find peak element of given array
+// Find peak element of given array (Max element in array)
 
 #include <iostream>
 using namespace std;
